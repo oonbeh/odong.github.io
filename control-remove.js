@@ -9,7 +9,7 @@ const dataRemove = [
       ".brn-header-container",
       ".brn-ads-mobile-container",
       ".brn-ads-box",
-      ".brn-footer__select"
+      ".brn-footer__select",
       ".sg-layout__footer",
 		  ".brn-qpage-next-answer-box__header",
 		  ".brn-qpage-next-question-box__comments",
