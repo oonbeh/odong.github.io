@@ -8,9 +8,22 @@ const dataRemove = [
       ".brn-placeholder__animation",
       ".brn-header-container",
       ".brn-ads-mobile-container",
-      ".sg-layout__footer",
       ".brn-ads-box",
       ".brn-footer__select"
+      ".sg-layout__footer",
+		  ".brn-qpage-next-answer-box__header",
+		  ".brn-qpage-next-question-box__comments",
+      ".brn-qpage-next-question-box__actions",
+		  ".brn-qpage-next-answer-box__actions",
+		  ".brn-qpage-next-answer-box__community-banner",
+		  ".brn-qpage-next-comments",
+		".js-react-above-answers",
+		".js-react-below-answers",
+		".js-qpage-newest-question.brn-qpage-next-newest-questions__section:nth-of-type(1)",
+		".js-qpage-newest-question.brn-qpage-next-newest-questions__section:nth-of-type(2)",
+		".js-qpage-newest-question.brn-qpage-next-newest-questions__section:nth-of-type(3)",
+		".js-qpage-newest-question.brn-qpage-next-newest-questions__section:nth-of-type(4)",
+		".js-qpage-newest-question.brn-qpage-next-newest-questions__section:nth-of-type(5)"
     ]
   }
 ];
