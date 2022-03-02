@@ -8,6 +8,7 @@ const dataRemove = [
       ".brn-placeholder__animation",
       ".brn-header-container",
       ".brn-ads-mobile-container",
+      ".sg-layout__footer",
       ".brn-ads-box",
       ".brn-footer__select"
     ]
